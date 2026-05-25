@@ -97,8 +97,6 @@ O design mobile seguirá a identidade visual da marca.
 
 - Visual minimalista;
 - Espaçamento organizado;
-- Cores equilibradas;
-- Destaques em roxo;
 - Interface moderna.
 
 O objetivo será transmitir:
